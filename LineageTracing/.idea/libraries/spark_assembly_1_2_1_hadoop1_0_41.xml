@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="spark-assembly-1.2.1-hadoop1.0.41">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/UCLA Senior/F15/Research-Fall2015/spark-lineage-1.2.1/assembly/target/scala-2.10/spark-assembly-1.2.1-hadoop1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Documents/UCLA Senior/F15/Research-Fall2015/spark-lineage-1.2.1/assembly/target/scala-2.10/spark-assembly-1.2.1-hadoop1.0.4.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/UCLA Senior/F15/Research-Fall2015/spark-lineage-1.2.1/assembly/target/scala-2.10/spark-assembly-1.2.1-hadoop1.0.4.jar!/" />
+    </SOURCES>
+  </library>
+</component>
