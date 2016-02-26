@@ -1,0 +1,72 @@
+<component name="libraryTable">
+  <library name="spark-lineage-1.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/assembly/target/streams/$global/assemblyOption/$global/streams/assembly/66fd008f54621aa7f43f81795f057302cff0fedc_25578e9e5ef275ed225686cfe035ac2cef6badc1" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/examples/target/streams/$global/assemblyOption/$global/streams/assembly/66fd008f54621aa7f43f81795f057302cff0fedc_25578e9e5ef275ed225686cfe035ac2cef6badc1" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/assembly/target/streams/$global/assemblyOption/$global/streams/assembly/cc540048a727da2c12f184ec56c567db088ea206_40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/bagel/src/main/scala" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/bagel/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/core/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/core/src/main/scala" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/core/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/core/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/dev/audit-release/maven_app_core/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/dist/examples/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/examples/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/examples/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/examples/target/streams/$global/assemblyOption/$global/streams/assembly/1d2b2c319614a3d81d7c4b185334059d8c712b3e_50fdbef9ca4775d2d2311db79f3f4d873d6db3d8/parquet" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/examples/target/streams/$global/assemblyOption/$global/streams/assembly/9427664cac6f93ec78bf79e5a3ed17ec6b71c05a_9ba8df332b5db95ce7f3b7a83e44d796c3d014d3" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/examples/target/streams/$global/assemblyOption/$global/streams/assembly/cc540048a727da2c12f184ec56c567db088ea206_40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/flume-sink/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/flume-sink/target/scala-2.10/src_managed/main/compiled_avro" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/flume/src/main/scala" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/flume/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/flume/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/kafka/src/main/scala" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/kafka/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/kafka/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/mqtt/src/main/scala" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/mqtt/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/mqtt/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/twitter/src/main/scala" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/twitter/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/twitter/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/zeromq/src/main/scala" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/zeromq/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/external/zeromq/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/extras/java8-tests/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/extras/kinesis-asl/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/extras/kinesis-asl/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/graphx/src/main/scala" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/graphx/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/lineage/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/lineage/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/mllib/src/main/scala" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/mllib/src/main/scala/org/apache/spark/ml" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/mllib/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/mllib/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/network/common/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/network/common/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/network/shuffle/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/network/shuffle/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/network/yarn/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/repl/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/sql/catalyst/src/main/scala" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/sql/catalyst/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/sql/core/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/sql/core/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/sql/core/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/sql/hive/src/main/scala" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/sql/hive/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/sql/hive/target/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/streaming/src/main/scala" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/streaming/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/spark-lineage-1.2.1/streaming/target/java" />
+    </SOURCES>
+  </library>
+</component>

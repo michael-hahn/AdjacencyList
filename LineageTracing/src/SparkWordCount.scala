@@ -69,7 +69,7 @@ object SparkWordCount {
 
     // Job
     val file = lc.textFile(logFile, 2)
-    val pairs = file.flatMap(line => line.trim().split(" ")).map(word => (word.trim(), 1))
+    val pairs = file.flatMap(line => line.trim().split(" ")).map(word => (word.trim(), 1)).mapValues(s => 2)
     val counts = pairs.reduceByKey(_ + _)
     println(counts.count)
     println(counts.collect().mkString("\n"))
